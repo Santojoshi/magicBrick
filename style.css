@@ -1,0 +1,54 @@
+
+#opt{
+    width: 10rem;
+    height: 3rem;
+    border: none;
+}
+.dnone{
+    display: none;
+}
+.d-flex{
+    display: flex;
+}
+.cpoint{
+    cursor: pointer;
+}
+.innersec{
+    border-radius: 10px;
+    box-shadow: 0 0 2px 2px rgb(165, 178, 181);
+    padding: 20px;
+    width: 100%;
+}
+.subproperty li{
+    list-style: none;
+    padding : 10px;
+    border: solid 1px grey ;
+    border-radius: 20px;
+    margin-right: 5px;
+}
+.rot{
+    transform: rotate(180deg);
+}
+.d-block{
+    display: block;
+}
+.bred{
+    background-color: rgb(237, 136, 136);
+}
+.bnone{
+    border: none;
+}
+.ml-80{
+    margin-left: 80px;
+}
+.textSearch{
+    text-align: center;
+    width: 10rem;
+    height: 3rem;
+    margin-left: 2rem;
+    border-radius: 20px;
+    border: solid 1px grey;
+}
+li{
+    list-style: none;
+}
